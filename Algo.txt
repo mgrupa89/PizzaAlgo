@@ -5,6 +5,10 @@ Add payment and delivery information.
 Crack open a drink and wait.
 Anticipate delicious pizza.
 Get pizza and pay.
+ 7a Pizza is wrong, call store.
+ 7b Figure out what options they give you to resolve the issue.
+ 7c Wait for new pizza to arrive.
+ 7d Get a new drink while you wait. 
 Eat!
 ???
 Profit. 
