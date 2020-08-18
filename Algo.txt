@@ -1,5 +1,7 @@
 Decide where to order pizza.
 Check out the menu.
+ 2a Check out a different pizza place.
+ 2b Decide on the new place instead.
 Decide on pizza order.
 Add payment and delivery information.
 Crack open a drink and wait.
