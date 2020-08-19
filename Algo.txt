@@ -4,11 +4,11 @@ Check out the menu.
  2b Decide on the new place instead.
 Decide on pizza order.
 Add payment and delivery information.
-Crack open a drink and wait.
+Crack open a beer and wait.
  7a Pizza is wrong, call store.
  7b Figure out what options they give you to resolve the issue.
  7c Wait for new pizza to arrive.
- 7d Get a new drink while you wait.
+ 7d Get a another beer while you wait.
 Anticipate delicious pizza.
 Get pizza and pay. 
 Eat!
